@@ -1,5 +1,6 @@
 package br.senai.sp.jandira.model;
 
+// Classe retângulo
 public class Retangulo {
 
 	// Atributos da classe retângulo
